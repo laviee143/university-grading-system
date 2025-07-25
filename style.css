@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  background: #f0f0f0;
+}
+
+input[type="number"] {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.result {
+  background: #fff;
+  padding: 10px;
+  font-weight: bold;
+  border: 1px solid #ccc;
+}
