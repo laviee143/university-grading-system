@@ -3,7 +3,7 @@ body {
   padding: 20px;
   max-width: 400px;
   margin: auto;
-  background: #f0f0f0;
+  background:lightpink;
 }
 
 input[type="number"] {
@@ -15,7 +15,7 @@ input[type="number"] {
 button {
   padding: 10px;
   width: 100%;
-  background-color: #0077cc;
+  background-color:black;
   color: white;
   border: none;
   cursor: pointer;
